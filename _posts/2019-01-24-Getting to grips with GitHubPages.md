@@ -1,3 +1,7 @@
+---
+title: "Getting to grips with GitHub Pages"
+date: 2019-01-24
+---
 Draft of my first blog post about GitHubPages and new skills for tech authors.
 
 # Draft title
