@@ -1,15 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: GitHubPages can change the world
+author: EABrown3
+email: EABrown@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Learning new skills can change the world. GitHubPages are a new skill.
+  
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: EABrown_daily
+github_username:  EABrown3
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minima
